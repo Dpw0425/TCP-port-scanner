@@ -1,0 +1,6 @@
+2023-04-23T15:33:24.011+0800	[34mINFO[0m	logger/logger.go:81	opened ports: %!(EXTRA []int=[135 445 1042 1043 3306 4301 4709 5040 5357 6379 6942 7680])
+2023-04-23T15:34:14.715+0800	[34mINFO[0m	logger/logger.go:81	opened ports: %!(EXTRA []int=[135 445 1042 1043 3306 4301 4709 5040 5357 6379 6942 7680])
+2023-04-23T15:35:36.374+0800	[34mINFO[0m	logger/logger.go:81	opened ports: %!(EXTRA []int=[135 445 1043 1042 3306 4709 4301 5040 5357 6379 6942 7680])
+2023-04-23T15:37:44.952+0800	[34mINFO[0m	logger/logger.go:81	opened ports: %!(EXTRA []int=[25 80])
+2023-04-23T15:38:34.757+0800	[34mINFO[0m	logger/logger.go:81	opened ports: %!(EXTRA []int=[110 25])
+2023-04-23T15:39:14.584+0800	[34mINFO[0m	logger/logger.go:81	opened ports: %!(EXTRA []int=[25 110 22 80 9000 10086])
