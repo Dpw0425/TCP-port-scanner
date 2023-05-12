@@ -1,19 +1,3 @@
-//Author: lxk20021217
-//Date: 2022-06-16 19:56:00
-//LastEditTime: 2022-08-12 22:59:19
-//LastEditors: lxk20021217
-//Description:
-//FilePath: \wxprogram\pkg\logger\logger.go
-//是谁总是天亮了才睡
-
-//Author: lxk20021217
-//Date: 2022-06-16 19:56:00
-//LastEditTime: 2022-08-12 23:44:01
-//LastEditors: lxk20021217
-//Description:
-//FilePath: \wxprogram\pkg\logger\logger.go
-//是谁总是天亮了才睡
-
 package logger
 
 import (

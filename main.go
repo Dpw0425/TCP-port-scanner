@@ -34,7 +34,7 @@ func main() {
 		go func(port int) {
 			status := utils.Scanner(*hostName, port, *timeOut) // 设置等待时长，避免程序运行过快接收不到返回的错误信息
 			if status {
-				mutex.Lock()
+				mutex.Lock() // 因为程序存在竞争条件，在只扫描少数端口时数度较慢，为解决此问题，采用 mutex 来修复
 				ports = append(ports, port)
 				mutex.Unlock()
 			}
